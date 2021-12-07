@@ -36,3 +36,5 @@
 ### 更新日志
 
 - 2021.09.08 更新了`Python README.md` 文档，整理了Python文件夹，删去了一些不必要的文件。
+- 2021.11.20 更新了用R语言进行线性回归。
+- 2021.12.07 功能基因组学笔记新增了微阵列的内容。另外，项目上传了[github](https://github.com/FeelLiao/Bioinfo_struggle_way)，以后将同步更新。 

@@ -33,3 +33,4 @@ I plan to share my learning progress such as the practice code and the source of
 
 - 2021.09.08 Update the `Python README.md` file.
 - 2021.11.20 Update the linear regression method using R 
+- 2021.12.07 Update the learning note of microarray in functional genomics.
