@@ -34,3 +34,7 @@ I plan to share my learning progress such as the practice code and the source of
 - 2021.09.08 Update the `Python README.md` file.
 - 2021.11.20 Update the linear regression method using R 
 - 2021.12.07 Update the learning note of microarray in functional genomics.
+- 2022.01.05 Upload the note of genome assembly
+- 2022.01.10 Upload the note of Arabidopsis thaliana genome
+assembly from [High contiguity Arabidopsis thaliana genome
+assembly with a single nanopore flow cell](https://www.nature.com/articles/s41467-018-03016-2/)
