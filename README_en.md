@@ -38,3 +38,6 @@ I plan to share my learning progress such as the practice code and the source of
 - 2022.01.10 Upload the note of Arabidopsis thaliana genome
 assembly from [High contiguity Arabidopsis thaliana genome
 assembly with a single nanopore flow cell](https://www.nature.com/articles/s41467-018-03016-2/)
+- Upload Arabidopsis thaliana genome assembly shell script
+- Update Classification in R
+- Update Resampling methods in R

@@ -41,3 +41,6 @@
 - 2022.01.05 上传了基因组拼接学习笔记
 - 2022.01.10 上传了拟南芥测序数据练习笔记，文章来自[High contiguity Arabidopsis thaliana genome
 assembly with a single nanopore flow cell](https://www.nature.com/articles/s41467-018-03016-2/)
+- 2022.02.08 上传了拟南芥测序数据的脚本
+- 2022.02.09 更新了用R语言处理分类问题
+- 2022.02.09 更新了用R语言进行重抽样
